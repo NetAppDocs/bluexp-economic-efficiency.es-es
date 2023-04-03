@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-reminders.html 
+keywords: bluexp, economic efficiency remediate, economic efficiency, capacity planning, set reminders for capacity 
+summary: En lugar de añadir capacidad o datos fríos en niveles, puede elegir entre no se requiere ninguna acción en este momento y establecer recordatorios para que se vuelva a comprobar después de 30, 60 o 90 días. 
+---
+= Configure los recordatorios para que vuelvan a comprobarlo
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+En lugar de añadir capacidad o datos fríos en niveles, puede elegir entre no se requiere ninguna acción en este momento y establecer recordatorios para que se vuelva a comprobar después de 30, 60 o 90 días.
+
+.Pasos
+. En la navegación izquierda de BlueXP, seleccione *Gobierno* > *eficiencia económica* > *Planificación de la capacidad*.
+. Seleccione *evaluar opciones de almacenamiento* para el activo.
+. Seleccione *no se necesita ninguna acción*.
+. Elija cuándo quiere recibir una notificación de nuevo sobre un posible problema de baja capacidad: 30, 60 o 90 días.
+. Seleccione *Guardar*.
+
+
+.Resultado
+Después de que transcurra ese tiempo, el riesgo aparece de nuevo en la lista de riesgos.

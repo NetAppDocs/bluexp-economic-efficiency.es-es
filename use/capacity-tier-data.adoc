@@ -1,0 +1,49 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-tier-data.html 
+keywords: economic efficiency remediate, economic efficiency, capacity planning, add capacity 
+summary: El Servicio de eficiencia Económica ofrece recomendaciones basadas en el crecimiento previsto de los datos. Puede aceptar el pronóstico o introducir su propio pronóstico. En base a esto, el servicio presenta recomendaciones que satisfacen el crecimiento de capacidad previsto y son las más óptimas para la configuración de activos. Una de las recomendaciones puede ser organizar los datos fríos en niveles en el almacenamiento en cloud para liberar capacidad. Esta recomendación inicia la conexión con Cloud Tiering de NetApp, otro servicio BlueXP. 
+---
+= Organice en niveles los datos fríos en el almacenamiento en cloud y libere almacenamiento
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+El Servicio de eficiencia Económica ofrece recomendaciones basadas en el crecimiento previsto de los datos. Puede aceptar el pronóstico o introducir su propio pronóstico. En base a esto, el servicio presenta recomendaciones que satisfacen el crecimiento de capacidad previsto y son las más óptimas para la configuración de activos. Una de las recomendaciones puede ser organizar los datos fríos en niveles en el almacenamiento en cloud para liberar capacidad. Esta recomendación inicia la conexión con Cloud Tiering de NetApp, otro servicio BlueXP.
+
+A partir de ahí, puede organizar los datos en niveles y volver fácilmente al servicio de eficiencia económica para actuar en relación con otros sistemas.
+
+El proceso de organización en niveles en el cloud incluye los siguientes procesos:
+
+* Despliegue un conector
+* Detecte el clúster
+* Configure la organización en niveles en el cloud
+
+
+.Pasos
+. En la navegación izquierda de BlueXP, seleccione *Gobierno* > *eficiencia económica* > *Planificación de la capacidad*.
+. Seleccione *evaluar opciones de almacenamiento* para el activo.
+. Seleccione *Tier Cold Data*.
+. Los siguientes pasos dependen de si ya ha implementado un conector BlueXP y se ha detectado el clúster:
++
+** Si necesita implementar el conector BlueXP, consulte la documentación de BlueXP que se describe https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["Cómo crear un conector"]. De lo contrario, si ya ha desplegado el conector, no aparecerá la opción de desplegar el conector.
+** Si el servicio necesita detectar el clúster, consulte https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-discovering-ontap.html["Detectar clústeres de ONTAP en las instalaciones"]. De lo contrario, si ya se ha detectado el clúster, la opción de detectar el clúster no aparece.
+
+
++
+El servicio de eficiencia económica inicia la conexión con el servicio de organización en niveles de cloud, otro servicio de BlueXP de NetApp.
+
+. Seleccione *Agregar conector*.
+. Elija un proveedor de cloud y seleccione *continuar*.
+. Seleccione *continuar* o *Ir a despliegue*.
++
+Después de poner en marcha un conector, BlueXP Cloud Tiering detecta a continuación el clúster, si no se ha detectado todavía.
+
+. Después de detectar el clúster, configure la organización en niveles.
++
+Para obtener más información sobre la organización en niveles, consulte https://docs.netapp.com/us-en/cloud-manager-tiering/index.html["Documentación del servicio Cloud Tiering"^].
+
+

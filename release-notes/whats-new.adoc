@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: release-notes/whats-new.html 
+keywords: economic efficiency faq, economic efficiency frequently asked questions 
+summary: 'El servicio de eficiencia económica identifica los clústeres con una capacidad baja actual o prevista y ofrece recomendaciones sobre la organización en niveles de los datos o sobre la capacidad adicional (para los sistemas AFF).' 
+---
+= Lo nuevo
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Descubra las novedades del servicio de eficiencia económica.
+
+
+
+== 02 de abril de 2023
+
+El nuevo servicio de eficiencia económica identifica los clústeres con una capacidad baja actual o prevista y proporciona recomendaciones sobre la organización en niveles de los datos o capacidad adicional para los sistemas AFF locales.
+
+link:https://docs.netapp.com/us-en/bluexp-economic-efficiency/get-started/intro.html["Obtenga más información sobre este nuevo servicio"].

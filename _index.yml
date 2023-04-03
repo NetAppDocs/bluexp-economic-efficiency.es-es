@@ -1,0 +1,43 @@
+---
+indexpage:
+  lead: La planificación de la capacidad es fundamental para evitar tiempos de inactividad
+    innecesarios debido a la baja capacidad de los sistemas. El servicio de eficiencia
+    económica de BlueXP de NetApp puede ayudarle a identificar clústeres que muestran
+    una baja capacidad, revisar clústeres de correspondientes a la capacidad actual
+    y prevista y revisar el uso de CPU, el rendimiento de IOPS y el rendimiento de
+    latencia para determinar las oportunidades de solución de la capacidad.
+  tiles:
+  - title: Manos a la obra
+    links:
+    - title: Obtenga más información sobre el servicio de eficiencia económica
+      url: "/get-started/intro.html"
+    - title: Novedades del servicio de eficiencia económica
+      url: "/release-notes/whats-new.html"
+    - title: Inicio rápido
+      url: "/get-started/quick-start.html"
+    - title: Requisitos previos
+      url: "/get-started/prerequisites.html"
+    - title: Inicie sesión en el servicio en BlueXP
+      url: "/get-started/capacity-login.html"
+    - title: PREGUNTAS FRECUENTES
+      url: "/get-started/faq.html"
+  - title: Utilice el servicio de eficiencia económica
+    links:
+    - title: Revisar y solucionar problemas de capacidad
+      url: "/use/capacity-remediate-overview.html"
+    - title: Revisar el estado de la capacidad
+      url: "/use/capacity-review-status.html"
+    - title: Añadir capacidad
+      url: "/use/capacity-add.html"
+    - title: Organice los datos fríos en niveles en el almacenamiento en cloud
+      url: "/use/capacity-tier-data.html"
+    - title: Configure los recordatorios para que vuelvan a comprobarlo
+      url: "/use/capacity-reminders.html"
+  - title: Blogs y comunidad
+    links:
+    - title: Comunidad de NetApp
+      url: https://community.netapp.com/t5/BlueXP-and-Services/ct-p/CDS
+    - title: Blog Cloud Tiering
+      url: https://bluexp.netapp.com/blog/topic/cloud-tiering
+    - title: Seminarios web sobre el cloud
+      url: https://bluexp.netapp.com/events

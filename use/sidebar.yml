@@ -1,0 +1,14 @@
+---
+section: use
+title: Utilice el servicio de eficiencia económica
+entries:
+- title: Revisar y solucionar problemas de capacidad
+  url: "/use/capacity-remediate-overview.html"
+- title: Revisar el estado de la capacidad
+  url: "/use/capacity-review-status.html"
+- title: Añadir capacidad
+  url: "/use/capacity-add.html"
+- title: Organice los datos fríos en niveles en el almacenamiento en cloud
+  url: "/use/capacity-tier-data.html"
+- title: Configure los recordatorios para que vuelvan a comprobarlo
+  url: "/use/capacity-reminders.html"

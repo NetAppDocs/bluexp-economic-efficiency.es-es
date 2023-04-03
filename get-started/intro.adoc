@@ -1,0 +1,43 @@
+---
+sidebar: sidebar 
+permalink: get-started/intro.html 
+keywords: how bluexp economic efficiency works, what is economic efficiency, bluexp 
+summary: 'El servicio de planificación de la capacidad identifica los clústeres con una capacidad baja actual o prevista y le proporciona recomendaciones sobre la organización en niveles de los datos o la capacidad adicional (para los sistemas AFF).' 
+---
+= Obtenga más información sobre el servicio de eficiencia económica
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/concepts/
+
+
+[role="lead"]
+La planificación de la capacidad es fundamental para evitar tiempos de inactividad innecesarios debido a la baja capacidad de los sistemas. El servicio de eficiencia económica BlueXP de NetApp puede ayudarle a lograr lo siguiente:
+
+* Identifique los clústeres que muestran baja capacidad.
+* Revisar los grupos para conocer la capacidad actual y prevista.
+* Revise la utilización de la CPU, el rendimiento de las IOPS y el rendimiento de la latencia para determinar oportunidades para solucionar la capacidad.
+
+
+El servicio de eficiencia económica identifica los clústeres con una capacidad baja actual o prevista y ofrece recomendaciones sobre la organización en niveles de los datos o sobre la capacidad adicional (para los sistemas AFF). Si decide añadir capacidad, tanto usted como un representante de NetApp le remitirán una solicitud con recomendaciones detalladas. Esta solicitud incluye los detalles necesarios para facilitar la selección de capacidad y la solicitud de orden.
+
+Se puede acceder al servicio en BlueXP bajo la categoría *Gobierno*.
+
+El servicio de eficiencia económica se aplica únicamente a sistemas AFF en las instalaciones (incluidos AFF unificado y todos los sistemas de cabinas SAN).
+
+
+
+== Beneficios del servicio de eficiencia económica
+
+El servicio de eficiencia económica ofrece las siguientes ventajas:
+
+* Proporciona un proceso sencillo para obtener capacidad adicional
+* Ofrece un asesor de confianza y recomendaciones para resolver problemas de capacidad en su entorno
+* Reduce el tiempo invertido en planificar almacenamiento adicional
+
+
+
+
+== Coste
+
+NetApp no le cobra por usar el servicio. Si decide organizar en niveles los datos inactivos en el almacenamiento en la nube, deberá consultar a su proveedor de cloud los cargos aplicables.
