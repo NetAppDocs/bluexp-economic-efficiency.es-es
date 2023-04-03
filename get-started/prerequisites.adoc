@@ -18,7 +18,7 @@ Para utilizar el servicio de eficiencia económica, debe asegurarse de que su en
 
 * Su entorno debe cumplir todos los requisitos de BlueXP, incluido un inicio de sesión y acceso a la red desde un navegador Web.
 +
-Consulte el BlueXP https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["Lista de comprobación de introducción"].
+Consulte el BlueXP https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["Lista de comprobación de introducción"^].
 
 * Debe tener credenciales de acceso a los clústeres.
 * Aunque no es un requisito, resulta útil que el conector BlueXP esté en su lugar y activado y que se detecte el sistema ONTAP. En caso negativo, el servicio lo guiará por estos procesos.
