@@ -19,7 +19,7 @@ La planificación de la capacidad es fundamental para evitar tiempos de inactivi
 * Revise la utilización de la CPU, el rendimiento de las IOPS y el rendimiento de la latencia para determinar oportunidades para solucionar la capacidad.
 
 
-El servicio de eficiencia económica identifica los clústeres con una capacidad baja actual o prevista y ofrece recomendaciones sobre la organización en niveles de los datos o sobre la capacidad adicional (para los sistemas AFF). Si decide añadir capacidad, tanto usted como un representante de NetApp le remitirán una solicitud con recomendaciones detalladas. Esta solicitud incluye los detalles necesarios para facilitar la selección de capacidad y la solicitud de orden.
+El servicio de eficiencia económica identifica los clústeres con una capacidad baja actual o prevista y proporciona recomendaciones sobre organización en niveles de los datos o capacidad adicional (para los sistemas AFF). Si decide añadir capacidad, tanto usted como un representante de NetApp le remitirán una solicitud con recomendaciones detalladas. Esta solicitud incluye los detalles necesarios para facilitar la selección de capacidad y la solicitud de orden.
 
 Se puede acceder al servicio en BlueXP bajo la categoría *Gobierno*.
 
@@ -29,7 +29,7 @@ El servicio de eficiencia económica se aplica únicamente a sistemas AFF en las
 
 == Beneficios del servicio de eficiencia económica
 
-El servicio de eficiencia económica ofrece las siguientes ventajas:
+El servicio de eficiencia económica ofrece los siguientes beneficios:
 
 * Proporciona un proceso sencillo para obtener capacidad adicional
 * Ofrece un asesor de confianza y recomendaciones para resolver problemas de capacidad en su entorno

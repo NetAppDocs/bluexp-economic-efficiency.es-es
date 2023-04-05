@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: use/capacity-review-status.html 
 keywords: economic efficiency remediate, economic efficiency, capacity planning 
-summary: Comience a utilizar la eficiencia económica de BlueXP verificando la compatibilidad con su entorno, acceso a la red, inicio de sesión y navegador web. 
+summary: 'Si sus clústeres se encuentran actualmente por debajo o se prevé que estén por debajo del umbral de capacidad del 70%, el servicio de eficiencia económica identifica estos como recursos de baja capacidad y le alerta.' 
 ---
 = Revisar el estado de planificación de la capacidad
 :hardbreaks:
@@ -12,7 +12,7 @@ summary: Comience a utilizar la eficiencia económica de BlueXP verificando la c
 
 
 [role="lead"]
-Si sus clústeres se encuentran actualmente por debajo o se prevé que estén por debajo del umbral de capacidad del 70%, el servicio de eficiencia económica identifica estos como recursos de baja capacidad y le avisa. Además, el servicio de eficiencia económica ofrece recomendaciones sobre si debe organizar los datos en niveles o obtener capacidad adicional.
+Si sus clústeres se encuentran actualmente por debajo o se prevé que estén por debajo del umbral de capacidad del 70%, el servicio de eficiencia económica identifica estos como recursos de baja capacidad y le alerta. Además, el servicio de eficiencia económica ofrece recomendaciones sobre si debe organizar los datos en niveles o obtener capacidad adicional.
 
 Es posible revisar los siguientes tipos de datos para ayudar a resolver el problema de capacidad.
 

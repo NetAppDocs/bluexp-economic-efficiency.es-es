@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: use/capacity-tier-data.html 
 keywords: economic efficiency remediate, economic efficiency, capacity planning, add capacity 
-summary: El Servicio de eficiencia Económica ofrece recomendaciones basadas en el crecimiento previsto de los datos. Puede aceptar el pronóstico o introducir su propio pronóstico. En base a esto, el servicio presenta recomendaciones que satisfacen el crecimiento de capacidad previsto y son las más óptimas para la configuración de activos. Una de las recomendaciones puede ser organizar los datos fríos en niveles en el almacenamiento en cloud para liberar capacidad. Esta recomendación inicia la conexión con Cloud Tiering de NetApp, otro servicio BlueXP. 
+summary: El servicio de eficiencia económica ofrece recomendaciones basadas en el crecimiento previsto de los datos. Puede aceptar el pronóstico o introducir su propio pronóstico. En base a esto, el servicio presenta recomendaciones que satisfacen el crecimiento de capacidad previsto y son las más óptimas para la configuración de activos. Una de las recomendaciones puede ser organizar los datos fríos en niveles en el almacenamiento en cloud para liberar capacidad. Esta recomendación inicia la conexión con Cloud Tiering de NetApp, otro servicio BlueXP. 
 ---
 = Organice en niveles los datos fríos en el almacenamiento en cloud y libere almacenamiento
 :hardbreaks:
@@ -12,9 +12,9 @@ summary: El Servicio de eficiencia Económica ofrece recomendaciones basadas en 
 
 
 [role="lead"]
-El Servicio de eficiencia Económica ofrece recomendaciones basadas en el crecimiento previsto de los datos. Puede aceptar el pronóstico o introducir su propio pronóstico. En base a esto, el servicio presenta recomendaciones que satisfacen el crecimiento de capacidad previsto y son las más óptimas para la configuración de activos. Una de las recomendaciones puede ser organizar los datos fríos en niveles en el almacenamiento en cloud para liberar capacidad. Esta recomendación inicia la conexión con Cloud Tiering de NetApp, otro servicio BlueXP.
+El servicio de eficiencia económica ofrece recomendaciones basadas en el crecimiento previsto de los datos. Puede aceptar el pronóstico o introducir su propio pronóstico. En base a esto, el servicio presenta recomendaciones que satisfacen el crecimiento de capacidad previsto y son las más óptimas para la configuración de activos. Una de las recomendaciones puede ser organizar los datos fríos en niveles en el almacenamiento en cloud para liberar capacidad. Esta recomendación inicia la conexión con Cloud Tiering de NetApp, otro servicio BlueXP.
 
-A partir de ahí, puede organizar los datos en niveles y volver fácilmente al servicio de eficiencia económica para actuar en relación con otros sistemas.
+A partir de ese punto, puede organizar en niveles los datos y volver fácilmente al servicio de eficiencia económica para actuar en relación con otros sistemas.
 
 El proceso de organización en niveles en el cloud incluye los siguientes procesos:
 

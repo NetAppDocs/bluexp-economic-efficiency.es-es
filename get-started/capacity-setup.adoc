@@ -2,9 +2,9 @@
 sidebar: sidebar 
 permalink: get-started/capacity-setup.html 
 keywords: bluexp, economic efficiency remediate, economic efficiency, capacity planning, set reminders for capacity 
-summary: Para utilizar el servicio de eficiencia económica, lleve a cabo algunos pasos para configurarlo. 
+summary: Para utilizar el servicio de eficiencia económica, realice algunos pasos para configurarlo. 
 ---
-= Configure el servicio de eficiencia económica
+= Configurar el servicio de eficiencia económica
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -12,7 +12,7 @@ summary: Para utilizar el servicio de eficiencia económica, lleve a cabo alguno
 
 
 [role="lead"]
-Para utilizar el servicio de eficiencia económica, lleve a cabo algunos pasos para configurarlo.
+Para utilizar el servicio de eficiencia económica, realice algunos pasos para configurarlo.
 
 * Revisar link:../get-started/prerequisites.html["requisitos previos"] garantizar que su entorno está listo.
 * Crear un conector en BlueXP.
