@@ -14,12 +14,12 @@ summary: 'El servicio de planificación de la capacidad identifica los clústere
 [role="lead"]
 La planificación de la capacidad es fundamental para evitar tiempos de inactividad innecesarios debido a la baja capacidad de los sistemas. El servicio de eficiencia económica BlueXP de NetApp puede ayudarle a lograr lo siguiente:
 
-* Identifique los clústeres que muestran baja capacidad.
-* Revisar los grupos para conocer la capacidad actual y prevista.
+* Identifique los activos de almacenamiento de su entorno que muestren baja capacidad.
+* Permite revisar los activos para la capacidad actual y prevista.
 * Revise la utilización de la CPU, el rendimiento de las IOPS y el rendimiento de la latencia para determinar oportunidades para solucionar la capacidad.
 
 
-El servicio de eficiencia económica identifica los clústeres con una capacidad baja actual o prevista y proporciona recomendaciones sobre organización en niveles de los datos o capacidad adicional (para los sistemas AFF). Si decide añadir capacidad, tanto usted como un representante de NetApp le remitirán una solicitud con recomendaciones detalladas. Esta solicitud incluye los detalles necesarios para facilitar la selección de capacidad y la solicitud de orden.
+El servicio de eficiencia económica identifica los activos de almacenamiento con baja capacidad actual o prevista y ofrece recomendaciones sobre la organización de datos en niveles o capacidad adicional (para sistemas de AFF). Si decide añadir capacidad, tanto usted como un representante de NetApp le remitirán una solicitud con recomendaciones detalladas. Esta solicitud incluye los detalles necesarios para facilitar la selección de capacidad y la solicitud de orden.
 
 Se puede acceder al servicio en BlueXP bajo la categoría *Gobierno*.
 

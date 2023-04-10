@@ -12,7 +12,7 @@ summary: 'Si sus clústeres se encuentran actualmente por debajo o se prevé que
 
 
 [role="lead"]
-Si sus clústeres se encuentran actualmente por debajo o se prevé que estén por debajo del umbral de capacidad del 70%, el servicio de eficiencia económica identifica estos como recursos de baja capacidad y le alerta. Además, el servicio de eficiencia económica ofrece recomendaciones sobre si debe organizar los datos en niveles o obtener capacidad adicional.
+Si los activos de almacenamiento de su entorno se encuentran actualmente por debajo o se prevé que se encuentren por debajo del umbral del 970% de la capacidad, el servicio de eficiencia económica los identifica como recursos de poca capacidad y le alerta. Además, el servicio de eficiencia económica ofrece recomendaciones sobre si debe organizar los datos en niveles o obtener capacidad adicional.
 
 Es posible revisar los siguientes tipos de datos para ayudar a resolver el problema de capacidad.
 
