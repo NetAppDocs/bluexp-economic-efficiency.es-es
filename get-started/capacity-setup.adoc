@@ -2,9 +2,9 @@
 sidebar: sidebar 
 permalink: get-started/capacity-setup.html 
 keywords: bluexp, economic efficiency remediate, economic efficiency, capacity planning, set reminders for capacity 
-summary: Para utilizar el servicio de eficiencia económica, realice algunos pasos para configurarlo. 
+summary: Para usar la eficiencia económica de BlueXP, sigue unos pasos para configurarlo. 
 ---
-= Configurar el servicio de eficiencia económica
+= Configura la eficiencia económica de BlueXP
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -12,16 +12,16 @@ summary: Para utilizar el servicio de eficiencia económica, realice algunos pas
 
 
 [role="lead"]
-Para utilizar el servicio de eficiencia económica, realice algunos pasos para configurarlo.
+Para usar la eficiencia económica de BlueXP, sigue unos pasos para configurarlo.
 
 * Revisar link:../get-started/prerequisites.html["requisitos previos"] garantizar que su entorno está listo.
 * Crear un conector en BlueXP.
 * Detectar el clúster en BlueXP.
 
 
-Puede crear un conector directamente en BlueXP y utilizarlo posteriormente en el servicio de eficiencia económica. O bien, puede crear el conector en medio del proceso de corrección de riesgos.
+Puedes crear un Connector directamente en BlueXP y usar ese Connector más adelante en eficiencia económica de BlueXP. O bien, puede crear el conector en medio del proceso de corrección de capacidad.
 
-De forma similar, puede descubrir el clúster con antelación usando BlueXP o durante el proceso de corrección de riesgos.
+De igual modo, puede detectar el clúster de antemano mediante BlueXP o durante el proceso de corrección de la capacidad.
 
 
 

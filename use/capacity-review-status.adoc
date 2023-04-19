@@ -12,7 +12,7 @@ summary: 'Si sus clústeres se encuentran actualmente por debajo o se prevé que
 
 
 [role="lead"]
-Si los activos de almacenamiento de su entorno se encuentran actualmente por debajo o se prevé que se encuentren por debajo del umbral del 970% de la capacidad, el servicio de eficiencia económica los identifica como recursos de poca capacidad y le alerta. Además, el servicio de eficiencia económica ofrece recomendaciones sobre si debe organizar los datos en niveles o obtener capacidad adicional.
+Si los activos de almacenamiento de su entorno se encuentran actualmente por debajo o se prevé que se encuentren por debajo del umbral del 90% de la capacidad, el servicio de eficiencia económica los identifica como recursos de poca capacidad y le alerta. Además, el servicio de eficiencia económica ofrece recomendaciones sobre si debe organizar los datos en niveles o obtener capacidad adicional.
 
 Es posible revisar los siguientes tipos de datos para ayudar a resolver el problema de capacidad.
 
@@ -29,9 +29,9 @@ Es posible revisar los siguientes tipos de datos para ayudar a resolver el probl
 . Seleccione *evaluar opciones de almacenamiento* para el activo.
 . Seleccione una de las opciones:
 +
-** *Añadir capacidad*: Continúe link:../use/capacity-add.html["Adición de capacidad"].
-** *Datos fríos Tier*: Continúe link:../use/capacity-tier-data.html["Organiza los datos inactivos en niveles en el almacenamiento en cloud y libera el almacenamiento"].
-** *No se necesita acción*: Continúe link:../use/capacity-reminders.html["Seleccionar ninguna acción y establecer recordatorios para volver a comprobarlo"].
+** *Añadir capacidad*: Continúe link:../use/capacity-add.html["adición de capacidad"].
+** *Datos fríos Tier*: Continúe link:../use/capacity-tier-data.html["organizar en niveles los datos inactivos en el almacenamiento de cloud y liberar el almacenamiento"].
+** *No se necesita acción*: Continúe link:../use/capacity-reminders.html["no se selecciona ninguna acción y se configuran los recordatorios para volver a comprobarlos"].
 
 
 

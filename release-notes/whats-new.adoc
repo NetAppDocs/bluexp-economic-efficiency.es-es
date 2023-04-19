@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar 
 permalink: release-notes/whats-new.html 
-keywords: economic efficiency faq, economic efficiency frequently asked questions 
-summary: 'El servicio de eficiencia económica identifica los activos con baja capacidad actual o prevista y ofrece recomendaciones sobre la organización de datos en niveles o capacidad adicional (para sistemas de AFF).' 
+keywords: economic efficiency faq, bluexp, economic efficiency frequently asked questions 
+summary: 'La eficiencia económica de BlueXP identifica activos con baja capacidad actual o prevista y ofrece recomendaciones sobre la organización de datos en niveles o capacidad adicional (para sistemas AFF).' 
 ---
 = Lo nuevo
 :hardbreaks:
@@ -12,12 +12,12 @@ summary: 'El servicio de eficiencia económica identifica los activos con baja c
 
 
 [role="lead"]
-Descubra las novedades del servicio de eficiencia económica.
+Descubre las novedades en eficiencia económica de BlueXP.
 
 
 
 == 02 de abril de 2023
 
-El nuevo servicio de eficiencia económica identifica los activos de almacenamiento con baja capacidad actual o prevista y ofrece recomendaciones sobre la organización de datos en niveles o la capacidad adicional para sistemas de AFF on-premises.
+El nuevo servicio de eficiencia económica de BlueXP identifica los activos de almacenamiento con baja capacidad actual o prevista y ofrece recomendaciones sobre la organización de datos en niveles o la capacidad adicional para sistemas de AFF on-premises.
 
-link:https://docs.netapp.com/us-en/bluexp-economic-efficiency/get-started/intro.html["Obtenga más información sobre este nuevo servicio"].
+link:https://docs.netapp.com/us-en/bluexp-economic-efficiency/get-started/intro.html["Obtén más información sobre la eficiencia económica de BlueXP"].

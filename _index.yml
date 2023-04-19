@@ -1,27 +1,27 @@
 ---
 indexpage:
   lead: La planificación de la capacidad es fundamental para evitar tiempos de inactividad
-    innecesarios debido a la baja capacidad de los sistemas. El servicio de eficiencia
-    económica de BlueXP de NetApp puede ayudarle a identificar clústeres que muestran
-    una baja capacidad, revisar clusters de capacidad actual y prevista, y revisar
-    el uso de CPU, el rendimiento de IOPS y el rendimiento de latencia para determinar
-    las oportunidades de solución de la capacidad.
+    innecesarios debido a la baja capacidad de los sistemas. La eficiencia económica
+    de BlueXP puede ayudarte a identificar clústeres que muestran baja capacidad,
+    revisar clústeres de capacidad actual y prevista, y revisar la utilización de
+    la CPU, el rendimiento de IOPS y el rendimiento de latencia para determinar las
+    oportunidades para remediar la capacidad.
   tiles:
   - title: Manos a la obra
     links:
-    - title: Obtenga más información sobre el servicio de eficiencia económica
+    - title: Descubre la eficiencia económica de BlueXP
       url: "/get-started/intro.html"
-    - title: Novedades en el servicio de eficiencia económica
+    - title: Novedades en la eficiencia económica de BlueXP
       url: "/release-notes/whats-new.html"
     - title: Inicio rápido
       url: "/get-started/quick-start.html"
     - title: Requisitos previos
       url: "/get-started/prerequisites.html"
-    - title: Inicie sesión en el servicio en BlueXP
+    - title: Inicia sesión en la eficiencia económica de BlueXP
       url: "/get-started/capacity-login.html"
     - title: PREGUNTAS FRECUENTES
       url: "/get-started/faq.html"
-  - title: Utilice el servicio de eficiencia económica
+  - title: Use la eficiencia económica de BlueXP
     links:
     - title: Revisar y solucionar problemas de capacidad
       url: "/use/capacity-remediate-overview.html"

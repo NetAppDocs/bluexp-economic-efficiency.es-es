@@ -2,9 +2,9 @@
 sidebar: sidebar 
 permalink: get-started/prerequisites.html 
 keywords: what are bluexp economic efficiency requirements, economic efficiency prerequisites 
-summary: Comience a utilizar la eficiencia económica de BlueXP verificando la compatibilidad con su entorno, acceso a la red, inicio de sesión y navegador web. 
+summary: Empieza a usar la eficiencia económica de BlueXP verificando la compatibilidad de tu entorno, el acceso a la red, el inicio de sesión y el navegador web. 
 ---
-= Requisitos previos para la eficiencia económica
+= Requisitos previos de eficiencia económica de BlueXP
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -14,7 +14,7 @@ summary: Comience a utilizar la eficiencia económica de BlueXP verificando la c
 [role="lead"]
 Comience verificando la preparación de su entorno operativo, el inicio de sesión, el acceso a la red y el navegador web.
 
-Para utilizar el servicio de eficiencia económica, debe asegurarse de que su entorno cumple todos los requisitos.
+Para utilizar la eficiencia económica de Blue, debe asegurarse de que su entorno cumple con todos los requisitos.
 
 * Su entorno debe cumplir todos los requisitos de BlueXP, incluido un inicio de sesión y acceso a la red desde un navegador Web.
 +

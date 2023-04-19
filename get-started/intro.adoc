@@ -2,9 +2,9 @@
 sidebar: sidebar 
 permalink: get-started/intro.html 
 keywords: how bluexp economic efficiency works, what is economic efficiency, bluexp 
-summary: 'El servicio de planificación de la capacidad identifica los clústeres con una capacidad baja actual o prevista y le proporciona recomendaciones sobre la organización en niveles de los datos o la capacidad adicional (para los sistemas AFF).' 
+summary: 'El servicio de eficiencia económica de BlueXP identifica los clústeres con baja capacidad actual o prevista y te ofrece recomendaciones sobre la organización de los datos en niveles o la capacidad adicional (para sistemas AFF).' 
 ---
-= Obtenga más información sobre el servicio de eficiencia económica
+= Descubre la eficiencia económica de BlueXP
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -12,24 +12,24 @@ summary: 'El servicio de planificación de la capacidad identifica los clústere
 
 
 [role="lead"]
-La planificación de la capacidad es fundamental para evitar tiempos de inactividad innecesarios debido a la baja capacidad de los sistemas. El servicio de eficiencia económica BlueXP de NetApp puede ayudarle a lograr lo siguiente:
+La planificación de la capacidad es fundamental para evitar tiempos de inactividad innecesarios debido a la baja capacidad de los sistemas. La eficiencia económica de BlueXP puede ayudarte a conseguir lo siguiente:
 
 * Identifique los activos de almacenamiento de su entorno que muestren baja capacidad.
 * Permite revisar los activos para la capacidad actual y prevista.
 * Revise la utilización de la CPU, el rendimiento de las IOPS y el rendimiento de la latencia para determinar oportunidades para solucionar la capacidad.
 
 
-El servicio de eficiencia económica identifica los activos de almacenamiento con baja capacidad actual o prevista y ofrece recomendaciones sobre la organización de datos en niveles o capacidad adicional (para sistemas de AFF). Si decide añadir capacidad, tanto usted como un representante de NetApp le remitirán una solicitud con recomendaciones detalladas. Esta solicitud incluye los detalles necesarios para facilitar la selección de capacidad y la solicitud de orden.
+La eficiencia económica de BlueXP identifica los activos de almacenamiento con baja capacidad actual o prevista y ofrece recomendaciones sobre la organización de datos en niveles o capacidad adicional (para sistemas AFF). Si decide añadir capacidad, tanto usted como un representante de NetApp le remitirán una solicitud con recomendaciones detalladas. Esta solicitud incluye los detalles necesarios para facilitar la selección de capacidad y la solicitud de orden.
 
 Se puede acceder al servicio en BlueXP bajo la categoría *Gobierno*.
 
-El servicio de eficiencia económica se aplica únicamente a sistemas AFF en las instalaciones (incluidos AFF unificado y todos los sistemas de cabinas SAN).
+La eficiencia económica de BlueXP se aplica solo a sistemas AFF on-premises (incluidos los sistemas de cabinas AFF y All SAN unificados).
 
 
 
-== Beneficios del servicio de eficiencia económica
+== Beneficios de la eficiencia económica de BlueXP
 
-El servicio de eficiencia económica ofrece los siguientes beneficios:
+La eficiencia económica de BlueXP ofrece las siguientes ventajas:
 
 * Proporciona un proceso sencillo para obtener capacidad adicional
 * Ofrece un asesor de confianza y recomendaciones para resolver problemas de capacidad en su entorno
