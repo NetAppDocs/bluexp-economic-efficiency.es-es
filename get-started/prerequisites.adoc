@@ -14,7 +14,7 @@ summary: Empieza a usar la eficiencia económica de BlueXP verificando la compat
 [role="lead"]
 Comience verificando la preparación de su entorno operativo, el inicio de sesión, el acceso a la red y el navegador web.
 
-Para utilizar la eficiencia económica de Blue, debe asegurarse de que su entorno cumple con todos los requisitos.
+Para utilizar la eficiencia económica de BlueXP, debes asegurarte de que tu entorno cumpla todos los requisitos.
 
 * Su entorno debe cumplir todos los requisitos de BlueXP, incluido un inicio de sesión y acceso a la red desde un navegador Web.
 +

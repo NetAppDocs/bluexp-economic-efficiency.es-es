@@ -313,7 +313,6 @@
   <block id="71bd4794c020a7645a4cfe74173f4058" category="doc">Eficiencia económica de BlueXP</block>
   <block id="7372cb38b352714605614895b4902bd6" category="summary">Empieza a usar la eficiencia económica de BlueXP verificando la compatibilidad de tu entorno, el acceso a la red, el inicio de sesión y el navegador web.</block>
   <block id="ab5c19f216ae2b278b842bd3c6cdf7e2" category="doc">Requisitos previos de eficiencia económica de BlueXP</block>
-  <block id="2058bc2a64f08d83b90f6c8bacfeb33c" category="paragraph">Para utilizar la eficiencia económica de Blue, debe asegurarse de que su entorno cumple con todos los requisitos.</block>
   <block id="e029c7198e0a0d70e2816b726b7951f3" category="summary">Empieza a usar la eficiencia económica de BlueXP accediendo a este servicio en BlueXP.</block>
   <block id="a367ed9be142be10a959a44919e5f2e2" category="doc">Acceda a la eficiencia económica de BlueXP</block>
   <block id="3f631ba896c1faab92fa6644538f2fdd" category="summary">El servicio de eficiencia económica de BlueXP identifica los clústeres con baja capacidad actual o prevista y te ofrece recomendaciones sobre la organización de los datos en niveles o la capacidad adicional (para sistemas AFF).</block>
@@ -359,4 +358,5 @@
   <block id="d4a184baad527c4d76864b1bd61040ed" category="sidebar">Inicia sesión en la eficiencia económica de BlueXP</block>
   <block id="f65eafc37ceb7865c90318dc460588b6" category="sidebar">Use la eficiencia económica de BlueXP</block>
   <block id="a8cb12aeeba055d38bbada7b5b51b760" category="sidebar">Documentos de eficiencia económica de BlueXP</block>
+  <block id="328ca69db7afb3bf526a93cf02e334f5" category="paragraph">Para utilizar la eficiencia económica de BlueXP, debes asegurarte de que tu entorno cumpla todos los requisitos.</block>
 </blocks>
