@@ -1,0 +1,69 @@
+---
+sidebar: sidebar 
+permalink: use/tech-refresh.html 
+keywords: economic efficiency, tech refresh, technology update, hardware assessment 
+summary: Si tienes activos implementados y quieres obtener una evaluación para identificar si se recomienda una actualización tecnológica, puedes usar la opción de actualización tecnológica de eficiencia económica de BlueXP. El proceso realiza una evaluación de sus cargas de trabajo y activos actuales y le proporciona recomendaciones sobre cómo proceder. 
+---
+= Obtenga una evaluación de actualización tecnológica
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Si tienes activos implementados y quieres obtener una evaluación para identificar si se recomienda una actualización tecnológica, puedes usar la opción de actualización tecnológica de eficiencia económica de BlueXP. El proceso realiza una evaluación de sus cargas de trabajo y activos actuales y le proporciona recomendaciones sobre cómo proceder.
+
+La evaluación incluye los siguientes pasos:
+
+* Seleccione los sistemas que desea evaluar.
+* Especifique los requisitos en relación con los entornos, los tipos de carga de trabajo, la capacidad, el rendimiento y el presupuesto.
+* Vea las recomendaciones sobre los productos y servicios cloud adecuados que podrían mejorar el rendimiento de su entorno.
+
+
+Los sistemas se consideran candidatos para una actualización tecnológica basada en lo siguiente:
+
+* Se acerca el fin del contrato de soporte técnico
+* Fin del ciclo de vida del hardware que se acerca
+
+
+.Pasos
+. En la navegación de la izquierda de BlueXP, selecciona *Gobernanza* > *Eficiencia económica* > *Actualización tecnológica*.
++
+image:tech-refresh-list.png["Página de actualización tecnológica que muestra la ficha Candidatos de actualización tecnológica"]
+
+. Mire la pestaña *Candidatos de actualización tecnológica*, que enumera todos los entornos de trabajo que podrían beneficiarse de una actualización tecnológica.
+. Seleccione el entorno de trabajo en el que desea obtener una evaluación.
+. A la derecha, selecciona *Evaluar refresco*.
+. En las opciones de actualización Evaluar, seleccione *Tomar evaluación*.
+. Seleccione el sistema o sistemas en los que desea realizar la evaluación y seleccione *Siguiente*.
+. Seleccione los tipos de entorno que desee: Cloud público, cloud híbrido o en sus instalaciones.
+. Seleccione todos los tipos de cargas de trabajo que quiera gestionar: Aplicaciones vitales para el negocio, lagos de datos y flujos de trabajo de medios, almacenamiento secundario, cargas de trabajo menos críticas, o análisis y computación de alto rendimiento.
+. Introduzca los requisitos de capacidad en TiB, deslice el control deslizante hasta el valor o coloque el cursor sobre el valor en el control deslizante y seleccione * Siguiente *.
+. Seleccione los aspectos de rendimiento que desea poder gestionar: La latencia más baja, IOPS más alto, cargas de trabajo mixtas o el rendimiento que no es importante y seleccione *Siguiente*.
+. Ingrese un presupuesto en dólares estadounidenses, deslice el control deslizante hasta el valor, o coloque el cursor sobre el valor en el control deslizante y seleccione *Siguiente*.
++
+Aparecerá un conjunto de recomendaciones en diferentes pestañas para las opciones seleccionadas.
+
+. Revise las recomendaciones.
+. Para descargar un PDF de las recomendaciones, selecciona *Descargar*.
+. Para ponerse en contacto con un representante de ventas de NetApp con respecto a las recomendaciones, seleccione *Contactar con ventas*.
++
+Una página web le muestra las opciones que puede elegir para ponerse en contacto con un representante de ventas de NetApp.
+
+
+
+
+
+== Ver las evaluaciones de actualización de tecnología ya realizadas
+
+Es posible que desee revisar las evaluaciones de actualización de tecnología que ya realizó y volver a revisar las recomendaciones.
+
+.Pasos
+. En la navegación de la izquierda de BlueXP, selecciona *Gobernanza* > *Eficiencia económica* > *Actualización tecnológica*.
+. Seleccione la pestaña *Candidatos de actualización tecnológica*, que enumera todos los sistemas en los que realizó una evaluación de actualización tecnológica. Luego, selecciona *Ver acción* en la fila para ver las evaluaciones y recomendaciones para ese sistema.
++
+Alternativamente, selecciona la fila en la que aparece “Acción realizada” y selecciona *Ver* para ver los detalles de ese sistema.
+
+. Consulte las recomendaciones de actualización.
+

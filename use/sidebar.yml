@@ -2,6 +2,8 @@
 section: use
 title: Use la eficiencia económica de BlueXP
 entries:
+- title: Obtenga una evaluación de actualización tecnológica
+  url: "/use/tech-refresh.html"
 - title: Revisar y solucionar problemas de capacidad
   url: "/use/capacity-remediate-overview.html"
 - title: Revisar el estado de la capacidad
