@@ -1,11 +1,18 @@
 ---
 indexpage:
-  lead: La planificación de la capacidad es fundamental para evitar tiempos de inactividad
-    innecesarios debido a la baja capacidad de los sistemas. La eficiencia económica
-    de BlueXP puede ayudarte a identificar clústeres que muestran baja capacidad,
-    revisar clústeres de capacidad actual y prevista, y revisar la utilización de
-    la CPU, el rendimiento de IOPS y el rendimiento de latencia para determinar las
-    oportunidades para remediar la capacidad.
+  title: Documentación sobre eficiencia económica de BlueXP
+  summary: El servicio de eficiencia económica de BlueXP identifica los clústeres
+    con baja capacidad actual o prevista y te ofrece recomendaciones sobre la organización
+    de los datos en niveles o la capacidad adicional (para sistemas AFF). Asimismo,
+    el servicio proporciona recomendaciones de actualizaciones tecnológicas sobre
+    sistemas que están cerca del final de su vida útil.
+  keywords: technology refresh, tech refresh, AFF, capacity, economic efficiency,
+    bluexp, data tier, hardware end of life
+  lead: El servicio de eficiencia económica de BlueXP identifica los clústeres con
+    baja capacidad actual o prevista y te ofrece recomendaciones sobre la organización
+    de los datos en niveles o la capacidad adicional (para sistemas AFF). Asimismo,
+    el servicio proporciona recomendaciones de actualizaciones tecnológicas sobre
+    sistemas que están cerca del final de su vida útil.
   tiles:
   - title: Manos a la obra
     links:

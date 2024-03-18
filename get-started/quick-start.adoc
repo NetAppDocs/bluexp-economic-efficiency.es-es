@@ -27,7 +27,7 @@ link:../get-started/capacity-setup.html["Complete los pasos necesarios para conf
 Después de configurar el servicio, esto es lo que puede hacer a continuación.
 
 [role="quick-margin-list"]
-* link:../use/tech-refresh.html["Realice una evaluación de actualización tecnológica"].
+* link:../use/tech-refresh.html["Realiza una evaluación de actualización tecnológica o simula las cargas de trabajo en hardware nuevo"].
 * link:../use/capacity-review-status.html["Revisar el estado de planificación de la capacidad"].
 * link:../use/capacity-add.html["Añadir capacidad"].
 * link:../use/capacity-tier-data.html["Organice en niveles los datos fríos en el almacenamiento en cloud para liberar almacenamiento"].

@@ -2,9 +2,9 @@
 sidebar: sidebar 
 permalink: use/tech-refresh.html 
 keywords: economic efficiency, tech refresh, technology update, hardware assessment 
-summary: Si tienes activos implementados y quieres obtener una evaluación para identificar si se recomienda una actualización tecnológica, puedes usar la opción de actualización tecnológica de eficiencia económica de BlueXP. El proceso realiza una evaluación de sus cargas de trabajo y activos actuales y le proporciona recomendaciones sobre cómo proceder. 
+summary: Si tienes activos implementados y quieres obtener una evaluación para identificar si se recomienda una actualización tecnológica, puedes usar la opción de actualización tecnológica de eficiencia económica de BlueXP. El proceso realiza una evaluación de sus cargas de trabajo y activos actuales y le proporciona recomendaciones sobre cómo proceder. O bien, puede probar una simulación de cargas de trabajo. 
 ---
-= Obtenga una evaluación de actualización tecnológica
+= Evaluar una actualización tecnológica
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -12,7 +12,24 @@ summary: Si tienes activos implementados y quieres obtener una evaluación para 
 
 
 [role="lead"]
-Si tienes activos implementados y quieres obtener una evaluación para identificar si se recomienda una actualización tecnológica, puedes usar la opción de actualización tecnológica de eficiencia económica de BlueXP. El proceso realiza una evaluación de sus cargas de trabajo y activos actuales y le proporciona recomendaciones sobre cómo proceder.
+Si tienes activos existentes y quieres determinar si se recomienda una actualización tecnológica, puedes usar las opciones de actualización tecnológica de eficiencia económica de BlueXP. Puede revisar una breve evaluación de sus cargas de trabajo actuales y recibir recomendaciones, o bien si ha enviado registros de AutoSupport a NetApp en los últimos 90 días, el servicio puede proporcionar una simulación de cargas de trabajo para ver el rendimiento de las cargas de trabajo en hardware nuevo.
+
+* <<Realice una evaluación de actualización>>
+* <<Simule cargas de trabajo en hardware nuevo>>
+
+
+Los sistemas se consideran candidatos para una actualización tecnológica basada en lo siguiente:
+
+* Aproximación al final del contrato de soporte técnico
+* Próximo al final del ciclo de vida del hardware
+
+
+
+TIP: Puedes acceder a esta función mediante la eficiencia económica de BlueXP o mediante el asesor digital de NetApp.
+
+
+
+== Realice una evaluación de actualización
 
 La evaluación incluye los siguientes pasos:
 
@@ -21,36 +38,50 @@ La evaluación incluye los siguientes pasos:
 * Vea las recomendaciones sobre los productos y servicios cloud adecuados que podrían mejorar el rendimiento de su entorno.
 
 
-Los sistemas se consideran candidatos para una actualización tecnológica basada en lo siguiente:
-
-* Se acerca el fin del contrato de soporte técnico
-* Fin del ciclo de vida del hardware que se acerca
-
-
 .Pasos
 . En la navegación de la izquierda de BlueXP, selecciona *Gobernanza* > *Eficiencia económica* > *Actualización tecnológica*.
 +
-image:tech-refresh-list.png["Página de actualización tecnológica que muestra la ficha Candidatos de actualización tecnológica"]
+image:tech-refresh-list2.png["Página de actualización tecnológica en la que se muestran los candidatos a actualización tecnológica"]
 
 . Mire la pestaña *Candidatos de actualización tecnológica*, que enumera todos los entornos de trabajo que podrían beneficiarse de una actualización tecnológica.
 . Seleccione el entorno de trabajo en el que desea obtener una evaluación.
-. A la derecha, selecciona *Evaluar refresco*.
-. En las opciones de actualización Evaluar, seleccione *Tomar evaluación*.
+. En la columna Acciones, selecciona *Evaluar refresco*.
++
+image:tech-refresh-systems.png["Sistemas a incluir en la actualización tecnológica"]
+
 . Seleccione el sistema o sistemas en los que desea realizar la evaluación y seleccione *Siguiente*.
-. Seleccione los tipos de entorno que desee: Cloud público, cloud híbrido o en sus instalaciones.
-. Seleccione todos los tipos de cargas de trabajo que quiera gestionar: Aplicaciones vitales para el negocio, lagos de datos y flujos de trabajo de medios, almacenamiento secundario, cargas de trabajo menos críticas, o análisis y computación de alto rendimiento.
-. Introduzca los requisitos de capacidad en TiB, deslice el control deslizante hasta el valor o coloque el cursor sobre el valor en el control deslizante y seleccione * Siguiente *.
-. Seleccione los aspectos de rendimiento que desea poder gestionar: La latencia más baja, IOPS más alto, cargas de trabajo mixtas o el rendimiento que no es importante y seleccione *Siguiente*.
-. Ingrese un presupuesto en dólares estadounidenses, deslice el control deslizante hasta el valor, o coloque el cursor sobre el valor en el control deslizante y seleccione *Siguiente*.
+. Defina los requisitos:
++
+.. *Entornos*: Seleccione los tipos de entorno que desea: Nube pública, nube híbrida o on-premises.
++
+image:tech-refresh-requirements-environments4.png["Página de requisitos de actualización tecnológica en la que se muestran opciones de entorno"]
+
+.. *Workloads*: Seleccione todos los tipos de cargas de trabajo que desea manejar: Aplicaciones críticas para el negocio, análisis e informática de alto rendimiento, lagos de datos y flujos de trabajo de medios, almacenamiento secundario o cargas de trabajo menos críticas.
++
+image:tech-refresh-requirements-workload-tiles.png["Opciones de carga de trabajo"]
+
+.. *Capacidad*: Introduzca los requisitos de capacidad en TiB, deslice el control deslizante hasta el valor, o coloque el cursor sobre el valor en el control deslizante y seleccione *Siguiente*.
+.. *Rendimiento*: Seleccione los aspectos de rendimiento que desea manejar: Latencia más baja, IOPS más alto, cargas de trabajo mixtas o rendimiento no importante y seleccione *Siguiente*.
++
+image:tech-refresh-requirements-performance-tiles.png["Opciones de rendimiento"]
+
+.. *Presupuesto*: Ingresa un presupuesto en dólares estadounidenses, desliza el control deslizante hasta el valor, o coloca el cursor sobre el valor en el control deslizante y selecciona *Siguiente*.
 +
 Aparecerá un conjunto de recomendaciones en diferentes pestañas para las opciones seleccionadas.
 
-. Revise las recomendaciones.
-. Para descargar un PDF de las recomendaciones, selecciona *Descargar*.
-. Para ponerse en contacto con un representante de ventas de NetApp con respecto a las recomendaciones, seleccione *Contactar con ventas*.
-+
-Una página web le muestra las opciones que puede elegir para ponerse en contacto con un representante de ventas de NetApp.
 
+
+. Revise las recomendaciones.
++
+image:tech-refresh-view-recommendations2.png["Ver página de recomendaciones de evaluación de refrescamiento"]
+
+. Realice una o ambas de las siguientes acciones:
++
+.. Para descargar un PDF de las recomendaciones, selecciona *Descargar*.
+.. Para contactar con un representante de ventas de NetApp con respecto a las recomendaciones, seleccione *Contactar con ventas*. Una página web muestra las opciones que puede elegir para ponerse en contacto con un representante de ventas de NetApp.
+
+
+. Seleccione *Finalizar*.
 
 
 
@@ -61,9 +92,106 @@ Es posible que desee revisar las evaluaciones de actualización de tecnología q
 
 .Pasos
 . En la navegación de la izquierda de BlueXP, selecciona *Gobernanza* > *Eficiencia económica* > *Actualización tecnológica*.
-. Seleccione la pestaña *Candidatos de actualización tecnológica*, que enumera todos los sistemas en los que realizó una evaluación de actualización tecnológica. Luego, selecciona *Ver acción* en la fila para ver las evaluaciones y recomendaciones para ese sistema.
-+
-Alternativamente, selecciona la fila en la que aparece “Acción realizada” y selecciona *Ver* para ver los detalles de ese sistema.
-
+. Seleccione la pestaña *Candidatos de actualización tecnológica*, que enumera todos los sistemas en los que realizó una evaluación de actualización tecnológica. A continuación, en el menú Acciones de la fila de ese sistema, seleccione para ver las evaluaciones y recomendaciones de ese sistema.
+. En la página Evaluar opciones de actualización, seleccione *Ver recomendación*.
 . Consulte las recomendaciones de actualización.
++
+image:tech-refresh-view-recommendations2.png["Ver página de recomendaciones de evaluación de refrescamiento"]
+
+
+
+
+
+== Simule cargas de trabajo en hardware nuevo
+
+Si ha enviado registros de AutoSupport a NetApp en los últimos 90 días, NetApp puede ofrecer una simulación para ver el rendimiento de las cargas de trabajo en hardware nuevo.
+
+Puede incluir o excluir cargas de trabajo específicas de la simulación. También puede añadir cargas de trabajo si no aparecen en la lista de cargas de trabajo existente.
+
+.Pasos
+. En la navegación de la izquierda de BlueXP, selecciona *Gobernanza* > *Eficiencia económica* > *Actualización tecnológica*.
++
+image:tech-refresh-list2.png["Página de actualización tecnológica que muestra la ficha Candidatos de actualización tecnológica"]
+
+. Mire la pestaña *Candidatos de actualización tecnológica*, que enumera todos los entornos de trabajo que podrían beneficiarse de una actualización tecnológica.
+. Seleccione el entorno de trabajo en el que desea obtener una evaluación.
+. En la columna Acciones, seleccione *Evaluar refresco*.
++
+
+NOTE: El servicio importa detalles de la carga de trabajo como preparación para la simulación.
+
++
+image:tech-refresh-simulation-requirements3.png["Simule la página Cargas de trabajo que muestra las opciones de requisitos"]
+
+. En la página Simulate Workloads > Workload Requirements, haga lo siguiente:
++
+.. Para agregar una carga de trabajo que no está en la lista, seleccione *Añadir carga de trabajo*. Para obtener más información, consulte <<Añadir una carga de trabajo>>.
+.. *IOPS*: Opcionalmente, cambie la IOPS que desee para su nuevo hardware.
+.. *Capacidad (TiB)*: Opcionalmente, cambie la capacidad que desee para su nuevo hardware.
+
+
+. Para excluir cargas de trabajo, en la columna Acciones, seleccione la opción *Excluir carga de trabajo de simulación*.
++
+
+TIP: Para incluir cargas de trabajo excluidas anteriormente, seleccione la pestaña *Cargas de trabajo excluidas* y seleccione la opción *Incluir carga de trabajo en simulación*.
+.. Seleccione *Siguiente*.
+
+. Revise los resultados simulados del nuevo hardware en la página Configuración:
++
+image:tech-refresh-simulation-results2.png["Página Simulación de cargas de trabajo que muestra los resultados de la simulación"]
+
++
+
+TIP: Las mejores recomendaciones se indican con una indicación de “Mejor”.
+
+. Para descargar un PDF de las recomendaciones, selecciona *Descargar*.
+. Para contactar con un representante de ventas de NetApp con respecto a las recomendaciones:
++
+.. Selecciona *Contacto*.
+.. Introduzca los detalles de contacto.
+.. Añada notas especiales para el representante de ventas de NetApp.
+.. Seleccione *Confirmar y enviar*.
+
+
+. Seleccione *Finalizar*.
+
+
+.Resultado
+Las recomendaciones de la simulación de carga de trabajo se envían a un representante de ventas de NetApp. También recibirá un correo electrónico confirmando las recomendaciones. Un representante de ventas de NetApp responderá a su solicitud.
+
+
+
+== Añadir una carga de trabajo
+
+Puede agregar una carga de trabajo que todavía no esté en la lista en la simulación de la carga de trabajo.
+
+.Pasos
+. En la navegación de la izquierda de BlueXP, selecciona *Gobernanza* > *Eficiencia económica* > *Actualización tecnológica*.
++
+image:tech-refresh-list2.png["Página de actualización tecnológica que muestra la ficha Candidatos de actualización tecnológica"]
+
+. Seleccione el entorno de trabajo.
+. En la columna Acciones, seleccione *Evaluar refresco*.
++
+image:tech-refresh-simulation-requirements3.png["Simule la página Cargas de trabajo que muestra las opciones de requisitos"]
+
+. En la página Simulate Workloads > Workload Requirements, seleccione *Añadir carga de trabajo*.
++
+image:tech-refresh-workload-add2.png["Agregar página de carga de trabajo"]
+
+. Seleccione la aplicación, introduzca el nombre de una carga de trabajo y seleccione un tamaño de carga de trabajo.
+. Introduzca los valores de rendimiento y capacidad esperados de la carga de trabajo.
++
+
+NOTE: Si elige el tamaño de carga de trabajo pequeño, típico o con gran volumen de I/O, aparecen los valores predeterminados.
+
+. De manera opcional, seleccione la flecha Opciones avanzadas y cambie los valores predeterminados de la siguiente información:
++
+** *Eficiencia de almacenamiento*: Una relación de reducción de datos típica podría ser de 2 a 1.
+** * Lecturas aleatorias %*: Un tamaño promedio típico de E/S para una lectura aleatoria es de 16K.
+** * Lecturas secuenciales %*: Un patrón de lectura típico es 50% aleatorio y 50% secuencial.
+** *Random Writes %*: Un tamaño promedio típico de E/S para una escritura aleatoria es de 32K.
+** *Escritos secuenciales %*: Un patrón de escritura típico es 50% aleatorio y 50% secuencial.
+
+
 

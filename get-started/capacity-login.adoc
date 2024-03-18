@@ -16,6 +16,9 @@ Usted usa BlueXP de NetApp para iniciar sesión en el servicio de eficiencia eco
 
 Para iniciar sesión en BlueXP, puede utilizar sus credenciales del sitio de soporte de NetApp o puede registrarse para iniciar sesión en cloud de NetApp con su correo electrónico y una contraseña. https://docs.netapp.com/us-en/bluexp-setup-admin/task-logging-in.html["Obtenga más información sobre cómo iniciar sesión"^].
 
+
+TIP: Puede acceder a esta función mediante la eficiencia económica de BlueXP (*Gobernanza* > *Eficiencia económica* > *Actualización tecnológica*) o mediante el asesor digital de NetApp (*Panel* > *widget de planificación* > *Actualización tecnológica*).
+
 .Pasos
 . Abra un explorador web y vaya al https://console.bluexp.netapp.com/["Consola BlueXP"^].
 +

@@ -26,8 +26,9 @@ La eficiencia económica de BlueXP puede ayudarte a lograr los siguientes objeti
 
 La planificación de la capacidad de eficiencia económica de BlueXP se aplica solo a sistemas de AFF on-premises (incluidos los sistemas de cabinas unificados AFF y All SAN).
 
-*Evaluación de la actualización tecnológica*
+*Evaluación y simulación de refrescos tecnológicos*
 
+* Realice una simulación de las cargas de trabajo en hardware nuevo y descargue los resultados.
 * Revise una lista de sistemas que se acercan al final de su vida útil o a otros eventos del ciclo de vida.
 * Revisa una evaluación de tu entorno de trabajo actual y obtén recomendaciones sobre opciones de actualización de la tecnología que se ajusten a los requisitos de carga de trabajo, capacidad, rendimiento y presupuesto.
 +
@@ -35,15 +36,13 @@ image:economic-efficiency-diagram-overview2.png["Diagrama del proceso de actuali
 
 
 
-Se puede acceder al servicio en BlueXP bajo la categoría *Gobierno*.
-
 
 
 == Beneficios de la eficiencia económica de BlueXP
 
 La eficiencia económica de BlueXP ofrece las siguientes ventajas:
 
-* Identifica los sistemas que se acercan a los eventos de ciclo de vida para ayudarle a planificar una actualización tecnológica
+* Identifica los sistemas que se están acercando a eventos de ciclo de vida para ayudarle a planificar una actualización tecnológica, ya sea mediante una breve evaluación o realizando una simulación de cargas de trabajo en hardware nuevo
 * Proporciona un proceso sencillo para obtener capacidad adicional
 * Ofrece recomendaciones de un asesor de confianza para solucionar problemas de capacidad en su entorno
 * Reduce el tiempo invertido en planificar almacenamiento adicional
@@ -56,3 +55,9 @@ La eficiencia económica de BlueXP ofrece las siguientes ventajas:
 NetApp no le cobra por usar el servicio.
 
 Si decide organizar en niveles los datos inactivos en el almacenamiento en la nube, deberá consultar a su proveedor de cloud los cargos aplicables.
+
+
+
+== Acceso
+
+Puede acceder a esta función mediante la eficiencia económica de BlueXP (*Gobernanza* > *Eficiencia económica* > *Actualización tecnológica*) o mediante el asesor digital de NetApp (*Panel* > *widget de planificación* > *Actualización tecnológica*).
