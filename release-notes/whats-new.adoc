@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: release-notes/whats-new.html 
 keywords: economic efficiency faq, bluexp, economic efficiency frequently asked questions 
-summary: 'La eficiencia económica de BlueXP identifica activos con baja capacidad actual o prevista y ofrece recomendaciones sobre la organización de datos en niveles o capacidad adicional (para sistemas AFF).' 
+summary: 'El servicio de eficiencia económica de BlueXP identifica los clústeres con baja capacidad actual o prevista y te ofrece recomendaciones sobre la organización de los datos en niveles o la capacidad adicional (para sistemas AFF). Asimismo, el servicio proporciona recomendaciones de actualizaciones tecnológicas sobre sistemas que están cerca del final de su vida útil.' 
 ---
 = Lo nuevo
 :hardbreaks:
