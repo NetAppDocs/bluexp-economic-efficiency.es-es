@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: use/capacity-review-status.html 
-keywords: economic efficiency remediate, economic efficiency, capacity planning 
+keywords: economic efficiency remediate, economic efficiency, capacity planning, forecast, capacity, storage, 
 summary: 'Si sus clústeres se encuentran actualmente por debajo o se prevé que estén por debajo del umbral de capacidad del 70%, el servicio de eficiencia económica identifica estos como recursos de baja capacidad y le alerta.' 
 ---
 = Revisar el estado de planificación de la capacidad
@@ -12,16 +12,13 @@ summary: 'Si sus clústeres se encuentran actualmente por debajo o se prevé que
 
 
 [role="lead"]
-Si los activos de almacenamiento de su entorno se encuentran actualmente por debajo o se prevé que se encuentren por debajo del umbral del 90% de la capacidad, el servicio de eficiencia económica los identifica como recursos de poca capacidad y le alerta. Además, el servicio de eficiencia económica ofrece recomendaciones sobre si debe organizar los datos en niveles o obtener capacidad adicional.
+Si los activos de almacenamiento de su entorno se encuentran actualmente por debajo o se prevé que se encuentren por debajo del umbral del 90% de la capacidad, el servicio de eficiencia económica los identifica como recursos de poca capacidad y le alerta. Además, el servicio de eficiencia económica ofrece recomendaciones sobre si debe estructurar los datos.
 
 Es posible revisar los siguientes tipos de datos para ayudar a resolver el problema de capacidad.
 
 * Plataforma
 * País donde se encuentra el activo
 * Capacidad actual y prevista por mes
-* Aprovechamiento de la capacidad y porcentaje
-* Tendencias de latencia
-* Tendencias de IOPS
 
 
 .Pasos
@@ -29,7 +26,7 @@ Es posible revisar los siguientes tipos de datos para ayudar a resolver el probl
 . Seleccione *evaluar opciones de almacenamiento* para el activo.
 . Seleccione una de las opciones:
 +
-** *Añadir capacidad*: Continúe link:../use/capacity-add.html["adición de capacidad"].
+** *Mejores prácticas*: Continúe haciendo clic en el enlace para ver las mejores prácticas.
 ** *Datos fríos Tier*: Continúe link:../use/capacity-tier-data.html["organizar en niveles los datos inactivos en el almacenamiento de cloud y liberar el almacenamiento"].
 ** *No se necesita acción*: Continúe link:../use/capacity-reminders.html["no se selecciona ninguna acción y se configuran los recordatorios para volver a comprobarlos"].
 
