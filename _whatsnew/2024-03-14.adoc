@@ -1,0 +1,17 @@
+= Opciones de actualización tecnológica
+:allow-uri-read: 
+
+
+
+
+=== Opciones de actualización tecnológica
+
+Si tienes activos implementados y quieres determinar si es necesario actualizar una tecnología, puedes utilizar las opciones de actualización de la tecnología de eficiencia económica de BlueXP. Puede revisar una breve evaluación de sus cargas de trabajo actuales y recibir recomendaciones, o bien si envió registros de AutoSupport a NetApp en los últimos 90 días, el servicio ahora puede proporcionar una simulación de cargas de trabajo para ver el rendimiento de las cargas de trabajo en hardware nuevo.
+
+También puede agregar una carga de trabajo y excluir las cargas de trabajo existentes de la simulación.
+
+Anteriormente, solo podía realizar una evaluación de sus activos e identificar si se recomienda una actualización tecnológica.
+
+Ahora la función forma parte de la opción Tech Refresh de la barra de navegación izquierda.
+
+Obtenga más información sobre el https://docs.netapp.com/us-en/bluexp-economic-efficiency/use/tech-refresh.html["Evaluar una actualización tecnológica"].

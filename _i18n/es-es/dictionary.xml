@@ -435,7 +435,6 @@
   <block id="10fa032662780ff6f01bd6647d92c626" category="paragraph">También puede agregar una carga de trabajo y excluir las cargas de trabajo existentes de la simulación.</block>
   <block id="7aea075f0d949c2526cea755a2dee13f" category="paragraph">Anteriormente, solo podía realizar una evaluación de sus activos e identificar si se recomienda una actualización tecnológica.</block>
   <block id="8006e6282233bdaa99ca3e9db65fc693" category="paragraph">Ahora la función forma parte de la opción Tech Refresh de la barra de navegación izquierda.</block>
-  <block id="914b4ad9ada7977f36d427a9664a4235" category="paragraph">Obtenga más información sobre la <block ref="4305c0855ed1712385868c1ca4414cc5" category="inline-link-macro-rx"></block>.</block>
   <block id="bf733d8a933c1601697f364223fc7ecb" category="section-title">Acceso</block>
   <block id="9087f29454392d1114832868ba710775" category="paragraph">Puede acceder a esta función mediante la eficiencia económica de BlueXP (*Gobernanza* &gt; *Eficiencia económica* &gt; *Actualización tecnológica*) o mediante el asesor digital de NetApp (*Panel* &gt; *widget de planificación* &gt; *Actualización tecnológica*).</block>
   <block id="72bf780976830d013719cb205b31d39b" category="sidebar">Documentación sobre eficiencia económica de BlueXP</block>
@@ -459,4 +458,8 @@
   <block id="0ca08a23718c0a91743dd6c0146ca353" category="paragraph">Es necesario asociar las credenciales del sitio de soporte de NetApp con su organización de BlueXP  para habilitar los siguientes flujos de trabajo clave para Cloud Volumes ONTAP:</block>
   <block id="c81c8e01f5d906ae1ab0c5c606f06b05" category="paragraph">La asociación de credenciales de NSS a la organización de BlueXP  es diferente de la cuenta de NSS asociada con un inicio de sesión de usuario de BlueXP .</block>
   <block id="8166996cb4a59c147200d89a061bb49c" category="paragraph">Estas credenciales de NSS están asociadas con su ID de organización de BlueXP  específico. Los usuarios que pertenecen a la organización BlueXP  pueden acceder a estas credenciales desde *Soporte &gt; Administración de NSS*.</block>
+  <block id="6d060bbb2a63ad6b1466ad80fcfc6275" category="doc">Opciones de actualización tecnológica</block>
+  <block id="bff48bc8f1cd9f08f36e8d0c4fa810ff" category="paragraph">Obtenga más información sobre el<block ref="a53ad2061326060987afe3d1fd22d00d" category="inline-link-rx"></block>.</block>
+  <block id="ba568c6eda754bba155b9d0f187ee2cd" category="doc">Operaciones desactivadas</block>
+  <block id="fe993a24bb9aca3efb672c108a8c8a76" category="section-title">Presentamos la eficiencia económica de BlueXP </block>
 </blocks>

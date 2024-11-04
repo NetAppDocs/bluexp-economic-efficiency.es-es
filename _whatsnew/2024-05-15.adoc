@@ -1,0 +1,13 @@
+= Operaciones desactivadas
+:allow-uri-read: 
+
+
+
+
+=== Operaciones desactivadas
+
+Algunas de las funciones de eficiencia económica de BlueXP  se han desactivado temporalmente:
+
+* Renovación tecnológica
+* Añadir capacidad
+

@@ -1,0 +1,9 @@
+= Renovación tecnológica
+:allow-uri-read: 
+
+
+
+
+=== Renovación tecnológica
+
+Esta versión de la eficiencia económica de BlueXP incluye una nueva opción para realizar una evaluación de sus activos e identificar si se recomienda una actualización tecnológica. El servicio incluye una nueva opción de actualización tecnológica en la navegación izquierda, nuevas páginas en las que puede realizar una evaluación de sus activos y cargas de trabajo actuales, y un informe que le ofrece recomendaciones.

@@ -18,6 +18,10 @@ Descubre las novedades en eficiencia económica de BlueXP.
 
 == 15 de mayo de 2024
 
+
+
+=== Operaciones desactivadas
+
 Algunas de las funciones de eficiencia económica de BlueXP  se han desactivado temporalmente:
 
 * Renovación tecnológica
@@ -28,6 +32,10 @@ Algunas de las funciones de eficiencia económica de BlueXP  se han desactivado
 
 == 14 de marzo de 2024
 
+
+
+=== Opciones de actualización tecnológica
+
 Si tienes activos implementados y quieres determinar si es necesario actualizar una tecnología, puedes utilizar las opciones de actualización de la tecnología de eficiencia económica de BlueXP. Puede revisar una breve evaluación de sus cargas de trabajo actuales y recibir recomendaciones, o bien si envió registros de AutoSupport a NetApp en los últimos 90 días, el servicio ahora puede proporcionar una simulación de cargas de trabajo para ver el rendimiento de las cargas de trabajo en hardware nuevo.
 
 También puede agregar una carga de trabajo y excluir las cargas de trabajo existentes de la simulación.
@@ -36,17 +44,25 @@ Anteriormente, solo podía realizar una evaluación de sus activos e identificar
 
 Ahora la función forma parte de la opción Tech Refresh de la barra de navegación izquierda.
 
-Obtenga más información sobre la link:../use/tech-refresh.html["Evaluar una actualización tecnológica"].
+Obtenga más información sobre el https://docs.netapp.com/us-en/bluexp-economic-efficiency/use/tech-refresh.html["Evaluar una actualización tecnológica"].
 
 
 
 == 08 de noviembre de 2023
+
+
+
+=== Renovación tecnológica
 
 Esta versión de la eficiencia económica de BlueXP incluye una nueva opción para realizar una evaluación de sus activos e identificar si se recomienda una actualización tecnológica. El servicio incluye una nueva opción de actualización tecnológica en la navegación izquierda, nuevas páginas en las que puede realizar una evaluación de sus activos y cargas de trabajo actuales, y un informe que le ofrece recomendaciones.
 
 
 
 == 02 de abril de 2023
+
+
+
+=== Presentamos la eficiencia económica de BlueXP 
 
 El nuevo servicio de eficiencia económica de BlueXP identifica los activos de almacenamiento con baja capacidad actual o prevista y ofrece recomendaciones sobre la organización de datos en niveles o la capacidad adicional para sistemas de AFF on-premises.
 
