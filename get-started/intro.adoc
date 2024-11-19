@@ -45,4 +45,4 @@ Si decide organizar en niveles los datos inactivos en el almacenamiento en la nu
 
 == Acceso
 
-Puede acceder a esta función mediante la eficiencia económica de BlueXP (*Gobernanza* > *Eficiencia económica* > *Actualización tecnológica*) o mediante el asesor digital de NetApp (*Panel* > *widget de planificación* > *Actualización tecnológica*).
+Puede acceder a esta función a través de la eficiencia económica de BlueXP  (*Gobernanza* > *Eficiencia económica* > *Actualización tecnológica*) o a través del asesor digital de Active IQ (también conocido como Asesor digital) (*Panel* > *widget de planificación* > *Actualización tecnológica*).
